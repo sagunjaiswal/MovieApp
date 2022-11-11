@@ -1,0 +1,33 @@
+.card-item{
+    cursor: pointer;
+    transition: all 0.3s;
+    color: aliceblue;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+.card-item:hover{
+    transform: scale(1.06);
+        transition: all 0.3s;
+}
+
+
+.card-top{
+    height: 300px;
+}
+.card-top img{
+    width: 100%;
+    height: 100%;
+}
+
+.card-info .movie-title{
+        font-size: 18px;
+    
+}
+.card-info p{
+    font-size: 14px;
+}
+.card-info h2{
+    color: aliceblue;
+    font-weight:lighter;
+    
+}

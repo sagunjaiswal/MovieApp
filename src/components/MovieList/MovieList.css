@@ -1,0 +1,19 @@
+.movie-list h2{
+        margin-bottom: 10px;
+        font-weight: 200;
+}
+
+.movie-heading{
+    background-color: #555555;
+    width: 100%;
+    padding: 20px;
+}
+
+.movie-container {
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-gap: 15px;
+    margin: 20px;
+    margin-bottom: 180px;
+    justify-content: space-between;
+}

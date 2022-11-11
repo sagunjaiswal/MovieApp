@@ -1,0 +1,19 @@
+.footer{
+    background-color: #424242;
+    bottom: 0%;
+    position:fixed;
+    width: 100%;
+}
+
+.footerLogo{
+    color:#f65261;
+    font-size: 1rem;
+    padding: 16px;
+    text-decoration: none;
+    font-weight:lighter;
+    display: flex;
+    justify-content: center;
+}
+span{
+    font-weight:1000;
+}

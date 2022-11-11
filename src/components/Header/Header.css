@@ -1,0 +1,56 @@
+.header{
+    background: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.5)), url('../../images/Bg_01.png') ;
+    
+}
+
+.searchBoxLabel{
+    font-weight:lighter;
+    font-size: 2.3rem;
+    text-transform: uppercase;
+    color: #4e4993;
+}
+
+.logo{
+    margin-left: 50px;
+    margin-top: 20px;
+    color:#f65261;
+    font-size: 1.65rem;
+    text-decoration: none;
+    font-weight:lighter;
+}
+span{
+    font-weight:1000;
+    color:#f65261;
+}
+
+.searchArea{
+    padding: 20px 10% 20px 10%;
+}
+
+
+input{
+    width: 84%;
+    height: 50px;
+    background: #424242;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 16px;
+    padding: 5px 5px 5px 20px;
+}
+
+::placeholder{
+    color: #ffffff;
+}
+
+
+.submitBtn{
+    background-color: #f65261;
+    border-style: none;
+    height: 50px;
+    width: 15%;
+    margin-left: 1%;
+    border-radius: 5px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+

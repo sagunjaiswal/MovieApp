@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# TO RUN THE APP
+npm install
+npm start
+go to localhost:3000
+
+# DEMO IMAGES OF THE PROJECT
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
